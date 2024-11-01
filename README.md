@@ -393,9 +393,9 @@ Row | Item | Description | Completed
 9 | 7 | 3rd Favorite emoji | 📚
 10 | 8 | Link to `commit #4 from VS Code` | https://github.com/alpnix/learn-git-milestones/commit/5e74022103f18eae3be6c634775961e39409fab2 (hash from VS Code Source Control)
 11 | 9a | Link to `first-website` github.com repo page | https://alpnix.github.io/learn-git-milestones/
-12 | 9a | Link to `first-website` github.io "project site" |
-13 | 10a | What is in Owen's dev branch? | 
-14 | 10b | Link to your new branch on github.com | 
+12 | 9a | Link to `first-website` github.io "project site" | https://github.com/alpnix/learn-git-milestones/blob/main/index.html (this is a link to my index.html that is displayed on my github pages - instead of having a separate repo the display can be made within this repo as index.html in the root directory will default to being rendered in any repo)
+13 | 10a | What is in Owen's dev branch? | Once you view the branches, Owen's cool new feature branch will show. After I checkout to the branch, I realized there is an mp4 file called cool new feature that is different than the main branch. 
+14 | 10b | Link to your new branch on github.com | https://github.com/alpnix/learn-git-milestones/tree/dev
 15 | 10c | Link to your network graph | 
 16 | 10d | Link to the PR you made on a partner's github.com repo | 
 
