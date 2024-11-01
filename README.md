@@ -387,10 +387,10 @@ Row | Item | Description | Completed
 3 | 4c | Link to markdown tables docs | [Table](#completions)
 4 | 4d | What does `log` do? | Displays the history of commit briefs
 5 | 5a | 2nd Favorite emoji | 🫡
-6 | 5b | Link to `commit #2 from Github Desktop` | https://github.com/username/repository/commit/073bf0e5c7f7538fd8fe87d87265666c0352a2f3 (hash copied from GitHub Desktop)
+6 | 5b | Link to `commit #2 from Github Desktop` | https://github.com/alpnix/learn-git-milestones/commit/073bf0e5c7f7538fd8fe87d87265666c0352a2f3 (hash copied from GitHub Desktop)
 7 | 6a | Full path to your working directory | /Users/alp/Desktop/DIG 250/learn-git-milestones
-8 | 6b | Link to `commit #3 from CLI` |
-9 | 7 | 3rd Favorite emoji |
+8 | 6b | Link to `commit #3 from CLI` | https://github.com/alpnix/learn-git-milestones/commit/e0c1b4ac43e1440ce669c57c1a7e6e9be209fa72 (hash copied from CLI through git log)
+9 | 7 | 3rd Favorite emoji | 📚
 10 | 8 | Link to `commit #4 from VS Code` |
 11 | 9a | Link to `first-website` github.com repo page |
 12 | 9a | Link to `first-website` github.io "project site" |
